@@ -7,3 +7,6 @@ With a refined dataset at our disposal, our analysis delves deeper into the dyna
 At the core of our analysis lie data-driven insights, revealing key metrics such as income disparities among bike purchasers by gender and the distribution of purchases across different commute distances. Excel's analytical prowess empowers robust calculations and visualizations, enabling stakeholders to extract actionable intelligence.
 
 Our project culminates in a dynamic dashboard, offering stakeholders an interactive platform for exploration and analysis. With slicers enabling effortless filtering and drill-down capabilities, users can uncover tailored insights, facilitating informed decision-making and strategic planning.
+
+
+![image](https://github.com/SiddhantPrakashMore/Excel-Projects/assets/170393457/9832880f-7f45-41d4-bdb0-c507c0de98cb)
