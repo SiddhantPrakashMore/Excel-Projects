@@ -22,3 +22,9 @@ Data Analysis:
 
 Conclusion:
 Through meticulous data analysis and leveraging Excel's powerful features, the Coffee Sales Analysis project provides stakeholders with valuable insights necessary for informed decision-making. By understanding customer behavior, product performance, and revenue trends, businesses can devise effective strategies to enhance sales and drive growth in the competitive coffee market.
+
+![image](https://github.com/SiddhantPrakashMore/Excel-Projects/assets/170393457/57cdc557-6ff9-4f82-b7fc-77a671ba6a7a)
+
+![image](https://github.com/SiddhantPrakashMore/Excel-Projects/assets/170393457/502376a1-6fb8-4f0c-bdbd-e02141ab280d)
+
+![image](https://github.com/SiddhantPrakashMore/Excel-Projects/assets/170393457/93cfdb01-ebc9-436c-8794-c45911299c4b)
